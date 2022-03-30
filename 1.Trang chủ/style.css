@@ -1,0 +1,18 @@
+.first-header{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQQPhA5sPzoUOZRLKptnDqBAZwuUzPiw4taA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.danhmucphobien{
+    background-color: white;
+}
+.xethethao{
+    background: url(https://autohub.cc/wp-content/uploads/2020/12/red-sedan.jpg);
+    background-repeat: no-repeat;
+}
+.Dangkimienphi{
+    border-style: solid;
+    border-radius: 5px;
+    border-color: red;
+}
